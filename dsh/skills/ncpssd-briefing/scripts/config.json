@@ -1,0 +1,15 @@
+{
+  "base_m": "https://m.ncpssd.cn",
+  "base_www": "https://www.ncpssd.cn",
+  "polite_delay_sec": 1.0,
+  "timeout_sec": 30,
+  "retries": 2,
+  "journals": [
+    { "name": "经济研究", "gch": "95645X", "freq": "monthly", "short": "jjyj", "months": [3, 4] },
+    { "name": "管理世界", "gch": "95499X", "freq": "monthly", "short": "glsj", "months": [2, 3] },
+    { "name": "经济学（季刊）", "gch": "84307X", "freq": "bimonthly", "short": "jk", "months": [2, 3] },
+    { "name": "中国工业经济", "gch": "93800A", "freq": "monthly", "short": "gyjj", "months": [3, 4] },
+    { "name": "数量经济技术经济研究", "gch": "94503X", "freq": "monthly", "short": "sljj", "months": [2, 3] },
+    { "name": "财贸经济", "gch": "96197X", "freq": "monthly", "short": "cmjj", "months": [2, 3] }
+  ]
+}
